@@ -1,0 +1,13 @@
+In computing, a regular expression, also referrred to as 'regex' or 'regexp', provides a concise and flexible means for matching strings of text, 
+such as particular characters, words or patterns of characters.
+
+A regular expression is written in a formal language that can be interpreted by a regular expression processor.
+They are really clever 'wild-card' expressions for matching and parsing strings.
+http://xkcd.com/208/
+
+UNDERSTANDING REGULAR EXPRESSIONS:
+  -very powerful and quite cryptic
+  -fun once you understand them
+  -regular expressions are a language unto themselves
+  -A language of 'marker characters': programming with characters
+  -it is kind of an 'old-school language-compact
